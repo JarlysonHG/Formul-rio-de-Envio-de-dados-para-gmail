@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Formulário de Envio de dados para gmail", "Formulário de Envio de dados para gmail\Formulário de Envio de dados para gmail.vbproj", "{ABC8DC92-73D4-4DC1-B80B-41B7740F66F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC8DC92-73D4-4DC1-B80B-41B7740F66F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC8DC92-73D4-4DC1-B80B-41B7740F66F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC8DC92-73D4-4DC1-B80B-41B7740F66F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC8DC92-73D4-4DC1-B80B-41B7740F66F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3D2F46C-1F72-4580-A1DA-20AD21B15B76}
+	EndGlobalSection
+EndGlobal
